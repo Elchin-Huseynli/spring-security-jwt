@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: payday-trade
+  profiles:
+    include:
+      - db
+      - security
